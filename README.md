@@ -1,2 +1,5 @@
 # Deep-Fashion
-Semester 4 Project
+
+
+
+#A virtual cloth dresser.
